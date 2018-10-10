@@ -2,10 +2,10 @@
 
 Info: [Call for proposals](https://www.r-consortium.org/projects/call-for-proposals).
 
-Alternatives:
+Alternative programs:
 
-* [Working groups program}(https://www.r-consortium.org/projects/isc-working-groups).
-* [User group and meetups program](https://www.r-consortium.org/projects/r-user-group-support-program).
+* [Working groups](https://www.r-consortium.org/projects/isc-working-groups).
+* [User group and meetups](https://www.r-consortium.org/projects/r-user-group-support-program).
 
 
 ## Submitting a Proposal
