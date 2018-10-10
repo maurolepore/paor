@@ -2,6 +2,12 @@
 
 Info: [Call for proposals](https://www.r-consortium.org/projects/call-for-proposals).
 
+Alternatives:
+
+* [Working groups program}(https://www.r-consortium.org/projects/isc-working-groups).
+* [User group and meetups program](https://www.r-consortium.org/projects/r-user-group-support-program).
+
+
 ## Submitting a Proposal
 
 Please provide a 2 to 5 page proposal that describes the problem you want to solve. We expect submissions to include these components:
