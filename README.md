@@ -1,14 +1,16 @@
 # paor
 
-Info: [Call for proposals](https://www.r-consortium.org/projects/call-for-proposals).
-
 Alternative programs:
 
 * [Working groups](https://www.r-consortium.org/projects/isc-working-groups).
 * [User group and meetups](https://www.r-consortium.org/projects/r-user-group-support-program).
 
 
-## Submitting a Proposal
+## R consotrium grants
+
+[Call for proposals](https://www.r-consortium.org/projects/call-for-proposals).
+
+### Submitting a Proposal
 
 Please provide a 2 to 5 page proposal that describes the problem you want to solve. We expect submissions to include these components:
 
